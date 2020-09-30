@@ -1,5 +1,5 @@
 Logr
-====
+====               It is an amazing project...
  - - -
 
 I never understood why blogging platforms had to be so complex. In my opinion,
